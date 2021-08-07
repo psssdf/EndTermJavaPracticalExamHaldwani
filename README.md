@@ -1,7 +1,7 @@
 Note: Question 1 and 2 are compulsory and Question 3 has a choice.
 
 1. MAke a folder in the format Roll_no-Name
-2. Duration of exam is 2 hrs so submit your file before time
+2. Duration of exam is 2 hrs so submit your file before 11.30 am
 
                                                                                         Questions
                                                            
